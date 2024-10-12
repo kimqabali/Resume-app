@@ -1,0 +1,40 @@
+{
+    "profile": {
+        "name": "عبدالكريم القبالي",
+        "title": "UI/UX DESIGNER",
+        "phone": "967 776539779",
+        "email": "kimqabali@gmail.com",
+        "skills": [
+            { "skill": "Photoshop", "level": 0.9 },
+            { "skill": "Illustrator", "level": 0.8 },
+            { "skill": "HTML", "level": 0.85 },
+            { "skill": "CSS", "level": 0.8 },
+            { "skill": "WordPress", "level": 0.75 },
+            { "skill": "jQuery", "level": 0.7 }
+        ]
+    },
+    "experience": [
+        { "years": "2014 - Present", "company": "Soft Tech Inc", "position": "Head Designer & Manager" },
+        { "years": "2010 - 2014", "company": "Kana Design Studio", "position": "UI/UX Specialist" },
+        { "years": "2009 - 2010", "company": "Papercart", "position": "Jr. Graphic Designer" }
+    ],
+    "education": [
+        { "years": "2010 - 2012", "degree": "Master in Graphics", "school": "New York University" },
+        { "years": "2006 - 2009", "degree": "Bachelors of Arts", "school": "University of Mumbai" }
+    ],
+    "awards": [
+        { "year": "2015", "title": "Art of the Week" },
+        { "year": "2014", "title": "Best Designer" }
+    ],
+    "expertise": [
+        "Logo Designing",
+        "Website Designing",
+        "Branding",
+        "Website Development",
+        "Character Designing"
+    ],
+    "references": [
+        { "name": "Mr. Robert Long", "position": "Sr. Director", "phone": "1.800.123.456789", "email": "robertlong@gmail.com" },
+        { "name": "Mrs. Natasha Singh", "position": "Jr. Designer", "phone": "1.800.123.456790", "email": "nsingh@gmail.com" }
+    ]
+}

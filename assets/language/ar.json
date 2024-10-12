@@ -1,0 +1,15 @@
+{
+  "select_language": "اختر اللغة",
+  "skills":"المهارات",
+  "work_experiences": "الخبرات العملية",
+  "education": "المؤهلات",
+  "awards": "الجوائز",
+  "expertise": "الخبرات",
+  "references":"المراجع",
+  "resume": "سيرة ذاتية",
+  "no_data_available": "لا توجد بيانات",
+  "error": "خطاء",
+  "cancel": "الغاء",
+  "save" : "حفظ",
+  "change_language": "تغيير اللغة"
+}
